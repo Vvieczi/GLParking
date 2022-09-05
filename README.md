@@ -1,3 +1,3 @@
 # GLParking
-Kornel Olkowski - TLIMC - Github: https://github.com/Shefour
-Iga Brotoñ - TLIMC - Github: https://github.com/IgaBroton
+Kornel Olkowski - TLIMC - Github: https://github.com/Shefour <br/>
+Iga BrotoÅ„ - TLIMC - Github: https://github.com/IgaBroton <br/>
